@@ -79,13 +79,6 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di-pokemon&layout=compact&theme=radical)
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/di-pokemon/project1): Description of project 1.
-- [Project 2](https://github.com/di-pokemon/project2): Description of project 2.
-- [Project 3](https://github.com/di-pokemon/project3): Description of project 3.
 
 ## Connect with Me
 
