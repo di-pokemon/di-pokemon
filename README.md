@@ -6,11 +6,9 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 - 🔭 I’m currently working on various projects related to web development, machine learning, and open-source contributions.
 - 🌱 I’m currently learning more about advanced JavaScript frameworks and exploring AI technologies.
-- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
-- 💬 Ask me about anything related to programming, I'm happy to help!
+- 👯 I’m looking to collaborate on Your current or next project
 - 📫 How to reach me: didiermuhirwa1@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing Pokémon games and collecting Pokémon cards.
+- ⚡ Fun fact: I can play guitar and Piano  
 
 ## Languages and Tools:
 
