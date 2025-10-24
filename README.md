@@ -1,73 +1,61 @@
 # Hi there, I'm Didier Muhirwa 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love to create exciting projects.
+Aspiring Cybersecurity Engineer | Software Engineer.
 
-## About Me
+Welcome to my GitHub — I combine software engineering experience with hands-on cybersecurity studies. My profile houses secure-by-design apps, automation, cloud work, security labs, and CTF write-ups.
 
-- 🔭 I’m currently working on various projects related to web development, machine learning, and open-source contributions.
-- 🌱 I’m currently learning more about advanced JavaScript frameworks and exploring AI technologies.
-- 👯 I’m looking to collaborate on Your current or next project
-- 📫 How to reach me: didiermuhirwa1@gmail.com
-- ⚡ Fun fact: I can play guitar and Piano  
+🛡️ About Me
+- 🎓 Current: Cybersecurity (B.Sc.) — IU International University of Applied Sciences (graduating 2026)
+- 💻 Past: Software Engineering — 42 Wolfsburg
+- 🔐 Interests: Vulnerability Assessment, Penetration Testing, Cloud Security, Secure Coding
+- ☁️ Cloud Exposure: AWS (IAM, Encryption, Deployment Automation, Monitoring)
+- 🌍 Goal: Join a world-class cybersecurity team where precision and continuous learning drive impact
 
-## Languages and Tools:
+🧠 Technical Skills
+- Security: Vulnerability Scanning, Threat Modeling, IDS/Log Analysis, Penetration Testing (lab)
+- Languages: Python, Bash, C, SQL, JavaScript
+- Tools: OWASP ZAP, Nmap, Wireshark, Burp Suite, Metasploit (learning)
+- Cloud: AWS (re/Start Graduate, Cloud Practitioner Certified)
+- Systems: Linux, macOS, Windows
 
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
+🔧 Tech & Tools
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  </a>
 </p>
+
+🎓 Certifications
+- Google Cybersecurity Certificate
+- AWS re/Start Graduate
+- AWS Certified Cloud Practitioner
+- CompTIA Security+ (in progress)
+
+📚 Currently Learning
+- Web application security (OWASP Top 10)
+- Penetration testing methodologies and CTF techniques
+- Cloud and container security (Kubernetes hardening)
+- Secure software design and threat modeling
+- Automation for security and DevSecOps
+
+📁 Projects (what you'll find here)
+- Software engineering: backend services, APIs (Node.js, Python), mobile apps (React Native), database projects.
+- Cybersecurity: penetration testing labs, exploit research, automation scripts, CTF write-ups, security tooling and hardening guides.
 
 ## GitHub Stats
 
@@ -77,12 +65,13 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di-pokemon&layout=compact&theme=radical)
 
-
 ## Connect with Me
 
-- [LinkedIn](linkedin.com/in/didier-m-287860251/)
+- [LinkedIn](https://linkedin.com/in/didier-m-287860251/)
 - [Twitter](https://twitter.com/di-pokemon)
 - [Website](https://di-pokemon.com)
 
-Thanks for visiting my profile! Have a great day! 😊
-``` ▋
+⚡ Philosophy
+> "Security is not a tool, it’s a mindset. I believe in understanding systems deeply before defending them."
+
+This README is a living document as I continue my cybersecurity and software journey. Thanks for visiting — feel free to explore my projects and reach out if you want to collaborate! 😊
