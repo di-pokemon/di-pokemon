@@ -1,4 +1,4 @@
-# Hi there, I'm Didier Muhirwa 👋
+# Hi there, I'm Didier 👋
 
 Aspiring Cybersecurity Engineer | Software Engineer.
 
