@@ -1,4 +1,4 @@
-# Hi there, I'm Didier 👋
+# Hi there, I'm Didier Muhirwa 👋
 
 Aspiring Cybersecurity Engineer | Software Engineer.
 
@@ -53,9 +53,33 @@ Welcome to my GitHub — I combine software engineering experience with hands-on
 - Secure software design and threat modeling
 - Automation for security and DevSecOps
 
-📁 Projects (what you'll find here)
-- Software engineering: backend services, APIs (Node.js, Python), mobile apps (React Native), database projects.
-- Cybersecurity: penetration testing labs, exploit research, automation scripts, CTF write-ups, security tooling and hardening guides.
+📁 Projects — separated by domain
+
+Cybersecurity Projects
+- Overview: Tools, labs, write-ups and security automation. Expect vulnerability assessments, CTF write-ups, lab environments, and security scripts.
+- Example entries (use this template for each repo):
+  - Project name — short description (Tools/Tech). Status: [WIP / Complete] • Link: repo-url
+- Suggested repo examples you might include:
+  - CTF-Writeups — detailed write-ups of CTF challenges (Python, Bash). Status: Complete • Link: /your-repo
+  - vuln-assessment-labs — reproducible lab setups and notes for vulnerabilities discovered (Docker, Kali, Nmap). Status: WIP • Link: /your-repo
+  - security-automation — scripts for scanning, reporting, or triage (OWASP ZAP automation, custom scanners). Status: WIP • Link: /your-repo
+
+Software Engineering Projects
+- Overview: Production apps, libraries, APIs and tools demonstrating software engineering best practices and system design.
+- Example entries (use this template for each repo):
+  - Project name — short description (Tech stack). Status: [WIP / Complete] • Link: repo-url
+- Suggested repo examples you might include:
+  - api-service — backend API with authentication, monitoring, tests (Node.js, Express, PostgreSQL). Status: Complete • Link: /your-repo
+  - mobile-app — cross-platform mobile app (React Native, Tailwind). Status: WIP • Link: /your-repo
+  - utils-and-libs — small libraries and helpers with tests and docs (Python/JS). Status: Complete • Link: /your-repo
+
+How to format a project entry (recommended)
+- Title — One-line summary
+- Short description (2–3 sentences)
+- Tech/Tools: list
+- How to run / reproduce (short)
+- Status: WIP / Complete / Archived
+- Link: GitHub repo link
 
 ## GitHub Stats
 
