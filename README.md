@@ -56,7 +56,7 @@ Welcome to my GitHub — I combine software engineering experience with hands-on
 📁 Projects — separated by domain
 
 Cybersecurity Projects
-- Overview: Tools, labs, write-ups and security automation. Expect vulnerability assessments, CTF write-ups, lab environments, and security scripts.
+- Overview: Tools, labs, write-ups, and security automation. Expect vulnerability assessments, CTF write-ups, lab environments, and security scripts.
 - Example entries (use this template for each repo):
   - Project name — short description (Tools/Tech). Status: [WIP / Complete] • Link: repo-url
 - Suggested repo examples you might include:
@@ -65,7 +65,7 @@ Cybersecurity Projects
   - security-automation — scripts for scanning, reporting, or triage (OWASP ZAP automation, custom scanners). Status: WIP • Link: /your-repo
 
 Software Engineering Projects
-- Overview: Production apps, libraries, APIs and tools demonstrating software engineering best practices and system design.
+- Overview: Production apps, libraries, APIs, and tools demonstrating software engineering best practices and system design.
 - Example entries (use this template for each repo):
   - Project name — short description (Tech stack). Status: [WIP / Complete] • Link: repo-url
 - Suggested repo examples you might include:
@@ -77,7 +77,7 @@ How to format a project entry (recommended)
 - Title — One-line summary
 - Short description (2–3 sentences)
 - Tech/Tools: list
-- How to run / reproduce (short)
+- How to run/reproduce (short)
 - Status: WIP / Complete / Archived
 - Link: GitHub repo link
 
