@@ -150,3 +150,20 @@
 <p align="center">
   <i>"Build secure. Think adversarially. Ship confidently."</i>
 </p>
+
+---
+
+## 🏫 42 Wolfsburg Projects
+
+> Low-level systems programming projects completed during the 42 Wolfsburg software engineering curriculum (C language, Apr 2022 – Nov 2023).
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [**Libft**](https://github.com/di-pokemon/Libft) | Re-implementation of standard C library functions from scratch | C |
+| [**ft_printf**](https://github.com/di-pokemon/ft_printf) | Custom implementation of the printf function handling multiple format specifiers | C |
+| [**get_next_line**](https://github.com/di-pokemon/get_next_line) | Function that reads a line from a file descriptor, managing static variables and buffers | C |
+| [**born2beroot**](https://github.com/di-pokemon/born2beroot) | Linux VM system administration project covering security hardening, sudo policies, and firewalls | Shell/Config |
+| [**piscine**](https://github.com/di-pokemon/piscine) | Intensive 4-week C programming bootcamp — the selection process for 42 School | C |
+| [**42-Cursus**](https://github.com/di-pokemon/42-Cursus) | Full overview of all 42 Wolfsburg cursus projects | C |
+
+---
