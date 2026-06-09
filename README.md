@@ -109,15 +109,39 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Reach
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=di-pokemon&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/di-pokemon)
+![Profile Views](https://komarev.com/ghpvc/?username=di-pokemon&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di-pokemon&layout=compact&theme=dark&hide_border=true)](https://github.com/di-pokemon)
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=di-pokemon&theme=dark&hide_border=true)](https://github.com/di-pokemon)
+---
+
+## 🎯 What I Bring to the Table
+
+> **Recruiters — here's my value proposition at a glance:**
+
+| 🔑 Capability | 🛠️ Proof |
+|------------|-------|
+| Build secure CI/CD pipelines end-to-end | Secure SDLC Mini Platform (GitHub) |
+| Automate threat detection & AppSec triage | Security Scanner Aggregator (GitHub) |
+| Model threats using STRIDE + MITRE ATT&CK | TM-ATTK Analyzer (GitHub) |
+| Cloud infrastructure on AWS (IAM, VPC, CloudFront) | Primed Talent GmbH — Junior Cloud Engineer |
+| Zero-Trust access control (Vault + Keycloak) | Real-world deployment @ Primed Talent GmbH |
+| DevSecOps automation (Terraform, Ansible, ArgoCD) | 4+ years hands-on experience |
+| Security compliance awareness (ISO/IEC 27001) | B.Sc. Cybersecurity — IU International University |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=di-pokemon&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/di-pokemon)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=di-pokemon&theme=react-dark&hide_border=true&area=true)](https://github.com/di-pokemon)
 
 </div>
 
