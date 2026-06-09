@@ -4,13 +4,26 @@
 
 > *"Security is not a feature — it's a foundation."*
 
-🎓 Final-semester B.Sc. Cybersecurity student | Software Engineer | Cloud & IT Support specialist — based in Germany, open to work. I bring a rare combination of skills across three disciplines: 🔐 Cybersecurity & DevSecOps, 💻 Software Engineering, ☁️ Cloud (AWS), and 🛠️ IT Support.
+🎓 Final-semester B.Sc. Cybersecurity student | Software Engineer | Cloud & IT Support specialist — based in Germany, open to work. I bring a rare combination of skills across three disciplines: 🔐 Cybersecurity & DevSecOps, 💻 Software Engineering, ☁️ Cloud (AWS), and ⚡ IT Support.
 
 ---
 
 ## 🛡️ About Me
 
 - 🎓 **Education:** B.Sc. Cybersecurity — IU International University of Applied Sciences (2026) | Former Software Engineering student — 42 Wolfsburg
+- 💼 **Currently:** Junior Cloud Engineer @ Primed Talent GmbH (Part-time, Remote)
+- 📍 **Location:** Berlin, Germany
+- 🔍 **Open to:** Entry-level to mid-level roles in: Cybersecurity | DevSecOps | Cloud Security | Software Development | IT Support
+- 🇩🇪 On-site · Hybrid · Remote | Germany
+- 🌐 **LinkedIn:** [linkedin.com/in/didier-muhirwa](https://www.linkedin.com/in/didier-muhirwa/)
+
+**🔐 Cybersecurity & DevSecOps** — Building secure software pipelines with SAST, DAST, threat modeling, and vulnerability automation. Hands-on with AWS security services, CI/CD hardening, and ISO/IEC 27001 frameworks. Currently completing thesis on information security governance.
+
+**💻 Software Engineering** — Developing secure applications with Python, Docker, Kubernetes, and infrastructure-as-code tools (Terraform, Ansible). Experienced with GitHub Actions, AWS CodePipeline, and OWASP-aligned development practices.
+
+**☁️ Cloud (AWS)** — Deployed and managed cloud environments on AWS — including VPC configuration, CloudWatch monitoring, CloudFront, DDoS protection, and IAM access control.
+
+**⚡ IT Support** — Practical experience in IT support, troubleshooting, and system administration — bridging the gap between end-user needs and technical infrastructure.
 - 💼 **Currently:** Junior Cloud Engineer @ Primed Talent GmbH (Part-time, Remote)
 - 📍 **Location:** Berlin, Germany
 - 🔍 **Open to:** Entry-level Cybersecurity / DevSecOps / Cloud Security roles in Germany
