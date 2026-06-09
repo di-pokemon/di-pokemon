@@ -111,10 +111,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=di-pokemon&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=di-pokemon&layout=compact&theme=dark&hide_border=true" width="40%"/>
-</p>
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=di-pokemon&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/di-pokemon)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=di-pokemon&layout=compact&theme=dark&hide_border=true)](https://github.com/di-pokemon)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=di-pokemon&theme=dark&hide_border=true)](https://github.com/di-pokemon)
+
+</div>
 
 ---
 
