@@ -12,7 +12,7 @@
 
 - 🎓 **Education:** B.Sc. Cybersecurity — IU International University of Applied Sciences (2026) | Former Software Engineering student — 42 Wolfsburg
 - 💼 **Currently:** Junior Cloud Engineer @ Primed Talent GmbH (Part-time, Remote)
-- 📍 **Location:** Berlin, Germany
+- 📍 **Location:** Hannover-Braunschweig-Göttingen-Wolfsburg Region
 - 🔍 **Open to:** Entry-level to mid-level roles in: Cybersecurity | DevSecOps | Cloud Security | Software Development | IT Support
 - 🇩🇪 On-site · Hybrid · Remote | Germany
 - 🌐 **LinkedIn:** [linkedin.com/in/didier-muhirwa](https://www.linkedin.com/in/didier-muhirwa/)
