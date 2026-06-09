@@ -75,6 +75,15 @@ I'm a Cybersecurity B.Sc. graduate (IU International University of Applied Scien
 
 ---
 
+## 🗣️ Spoken Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| 🇬🇧 English | Native / Bilingual |
+| 🇩🇪 German | Limited Working Proficiency |
+| 🇫🇷 French | Professional Working Proficiency |
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
